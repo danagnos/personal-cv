@@ -4,7 +4,7 @@ This is the Bootstrap-powered version of my personal CV. It includes a classic r
 
 ## 🚀 Live Preview
 
-[https://dYokai.github.io/cv-bootstrap/](https://dYokai.github.io/cv-bootstrap/)
+[https://dyokai.github.io/personal-cv/](https://dyokai.github.io/personal-cv/)
 
 ## 📁 Structure
 
